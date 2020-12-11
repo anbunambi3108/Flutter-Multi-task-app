@@ -33,5 +33,17 @@ EDITORS USED:   Android studio and Visual studio code
 ![Test Image 1](med_os.jpg)
 ### Display home page / reminder page
 ![Test Image 1](medrem.jpg)
+### Add medicine reminder page
+![Test Image 1](addmedrem.jpg)
+### Display medicine reminder details page
+![Test Image 1](medremdet.jpg)
+### Medicine reminder notification:
+![Test Image 1](medremnoti.jpg)
+### Delete medicine reminder page
+![Test Image 1](medremdel.jpg)
 ### Onboarding screen of health tipper
 ![Test Image 1](htos.jpg)
+### Health tipper titles display page
+![Test Image 1](hptitle.jpg)
+### Health tipper article page
+![Test Image 1](hpfacts.jpg)
