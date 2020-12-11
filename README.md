@@ -1,15 +1,23 @@
-# final_proj
+Introduction
 This app was done using Flutter,Firebase & Firebase cloud-messaging .This app includes a task planner to keep track of daily tasks and organize the tasks based on importance; a medicine reminder that notifies the user to take medicines on time; a health tipper consisting of some health tips and ways to overcome potential health issues.  
 
-## Getting Started
+1.For task planner, the user can:
+Login with google
+Add, edit and bookmark the tasks
+Delete completed tasks
 
-This project is a starting point for a Flutter application.
+2.For the medicine reminder, the user can:
+Add medicine, dose, medicine type, time interval, reminder time
+The user will get notification at  the reminder time
 
-A few resources to get you started if this is your first Flutter project:
+3.For the health-tipper, the user can:
+Read the health related articles
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Tools used:
+BACKEND:             Firebase
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FRONTEND:          Flutter framework
+
+EDITORS USED:   Android studio
+			     Visual studio code
+
