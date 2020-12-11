@@ -1,6 +1,5 @@
 # final_proj
-
-A new Flutter project.
+This app was done using Flutter,Firebase & Firebase cloud-messaging .This app includes a task planner to keep track of daily tasks and organize the tasks based on importance; a medicine reminder that notifies the user to take medicines on time; a health tipper consisting of some health tips and ways to overcome potential health issues.  
 
 ## Getting Started
 
