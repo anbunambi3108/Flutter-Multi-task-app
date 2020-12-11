@@ -22,3 +22,4 @@ FRONTEND:          Flutter framework
 EDITORS USED:   Android studio
 			     Visual studio code
 
+![Test Image 1](splash_screen.jpg)
